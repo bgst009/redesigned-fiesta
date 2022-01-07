@@ -1,4 +1,4 @@
-package VariadicFunctions
+package ex515
 
 import (
 	"testing"
