@@ -1,2 +1,6 @@
 .vscode/settings.json
-ch5/VariadicFunctions/go.mod
+go.mod
+*/go.mod
+*/*/go.mod
+*/*/*/go.mod
+go.sum
